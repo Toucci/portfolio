@@ -12,7 +12,7 @@ Data analyst in love for the data universe, where incredible things are possible
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/toucci/)
-* [Kaggle]([https://medium.com/@asuzukipk](https://www.kaggle.com/toucci))
+* [Kaggle](https://medium.com/@asuzukipk](https://www.kaggle.com/toucci))
 
 
 ## Main projects:
