@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="intro_banner.png" >
+  <img src="aaaaaa.jpg" >
 </p>
 
 # João Toucci
