@@ -13,6 +13,7 @@ Data analyst in love for the data universe, where incredible things are possible
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/toucci/)
 * [Kaggle](https://www.kaggle.com/toucci)
+* [Hugging Face](https://huggingface.co/tooucci)
 
 
 ## Main projects:
