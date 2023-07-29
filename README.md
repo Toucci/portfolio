@@ -33,4 +33,9 @@ Data analyst in love for the data universe, where incredible things are possible
 * [**Controlando inversor/motor com Python**](https://github.com/Toucci/opc_python)
 
 
----
+## Power BI projects:
+* [**Dashboard E-commerce no Brasil**](https://app.powerbi.com/view?r=eyJrIjoiZjc3MWY2NzgtYjE0Ni00Njg0LWE5YjEtZTg1NTVkYjM3ZDYzIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9)
+* [**Dashboard Vendas Petshop**](https://app.powerbi.com/view?r=eyJrIjoiMmQ2YzcwZmYtOTcwNS00YzJkLTlhNWQtMjQ3Y2Q2ZTQ1MTI4IiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9)
+* [**Dashboard de Vendas**](https://app.powerbi.com/view?r=eyJrIjoiNDQ5YjE3ODYtYjRlZS00YzRmLTg1NTAtNjk2OGM4ODNkZjUwIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9)
+* [**Dashboard de Vendas por Continente**](https://app.powerbi.com/view?r=eyJrIjoiMTE1OGI3YTctZGFjMS00YTM0LTg5NmQtYWNiZjVlNTk4OGYzIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9)
+* [**Dashboard de Vendas Clube do Livro**](https://app.powerbi.com/view?r=eyJrIjoiNjM1MDcwZTgtMTJjMC00MDkwLWExZWMtZDA5YTJhZWQ2MDlkIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9)
