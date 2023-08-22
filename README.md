@@ -24,6 +24,7 @@ Data analyst in love for the data universe, where incredible things are possible
 * [**Descriptive analysis of a IBGE data set**](https://github.com/Toucci/Trabalho-de-An-lise-Descritiva-de-um-Conjunto-de-Dados)
 * [**Cleaning Data - SUS 2017**](https://www.kaggle.com/datasets/toucci/dados-sinan-animais-peonhentos-2017)
 * [**Análise Picada de Peçonhentos em SP**](https://www.kaggle.com/code/toucci/an-lise-de-picadas-de-animais-em-sp)
+* [**Limpeza e Análise do Perfil dos eleitores e votos para prefeitura nos municípios de SP**](https://github.com/Toucci/Limpeza_Analise_Votos_SP_1TURNO_2020)
 
 
 ## Python projects: 
