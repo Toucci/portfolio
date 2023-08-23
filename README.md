@@ -3,7 +3,7 @@
 </p>
 
 # João Toucci
-<sub>*Data Analyst - Aspiring Data Scientist*</sub>
+<sub>*Data Scientist*</sub>
 
 Data analyst in love for the data universe, where incredible things are possible throught computer and AI (machine learning and deep learning).
 <br> I'm graduating in Data Science at Anhanguera (São Paulo University). I'm captivated by the field of science and data visualization, in which I have been studying for approximately a year, actively seeking an opportunity to further my career and personal growth in this domain.
